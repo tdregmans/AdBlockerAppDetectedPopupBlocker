@@ -3,7 +3,7 @@
     "name": "AdBlockerAppDetectedPopupBlocker",
     "version": "1.0",
   
-    "description": "This Firefox plug-in is to block the very irritating 'Ad blcoker app detected' popup on the Tradingview charts.",
+    "description": "This Firefox plug-in is to block the very irritating 'Ad blocker app detected' popup on the Tradingview charts.",
   
     "icons": {
       "48": "logo-48.png",
