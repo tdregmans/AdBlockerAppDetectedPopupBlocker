@@ -33,7 +33,7 @@ The [AdBlockerAppDetectedPopupBlockerApp.js](./AdBlockerAppDetectedPopupBlockerA
 
 Using the web-ext, the extension is signed. After testing the application in Firefox using the debug function, the extension is sent to Mozilla and signed by it. More information can be found [here](https://extensionworkshop.com/documentation/publish/signing-and-distribution-overview/) and [here](https://extensionworkshop.com/documentation/develop/web-ext-command-reference/#web-ext-sign).
 
-Signing requires a account with keys on the [Mozilla addon website](https://addons.mozilla.org/). The required keys can be generated on the [addon/api/key/ page]([Mozilla addon website](https://addons.mozilla.org/en-US/developers/addon/api/key/)
+Signing requires a account with keys on the [Mozilla addon website](https://addons.mozilla.org/). The required keys can be generated on the [addon/api/key/ page](https://addons.mozilla.org/en-US/developers/addon/api/key/)
 
 The used command is:
 ```cmd
